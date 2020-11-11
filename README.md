@@ -16,3 +16,5 @@ Deeplearning.AI Generative Adversarial Networks (GANs) Specialization Solution
 * [Week 1 - Evaluation of GANs](https://github.com/anhtuan85/Generative-Adversarial-Networks-GANs-Specialization/tree/main/Course%202%20-%20Build%20Better%20Generative%20Adversarial%20Networks%20(GANs)/Week%201)
 
 * [Week 2 - GAN Disadvantages and Bias](https://github.com/anhtuan85/Generative-Adversarial-Networks-GANs-Specialization/tree/main/Course%202%20-%20Build%20Better%20Generative%20Adversarial%20Networks%20(GANs)/Week%202)
+
+* [Week 3 - StyleGAN and Advancements](https://github.com/anhtuan85/Generative-Adversarial-Networks-GANs-Specialization/tree/main/Course%202%20-%20Build%20Better%20Generative%20Adversarial%20Networks%20(GANs)/Week%203)
