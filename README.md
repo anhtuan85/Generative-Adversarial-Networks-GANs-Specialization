@@ -25,4 +25,4 @@ Deeplearning.AI Generative Adversarial Networks (GANs) Specialization Solution
 
 * [Week 2 - Image-to-Image Translation with Pix2Pix](https://github.com/anhtuan85/Generative-Adversarial-Networks-GANs-Specialization/tree/main/Course%203%20-%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/Week%202)
 
-* [Week 2 - Unpaired Translation with CycleGAN](https://github.com/anhtuan85/Generative-Adversarial-Networks-GANs-Specialization/tree/main/Course%203%20-%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/Week%203)
+* [Week 3 - Unpaired Translation with CycleGAN](https://github.com/anhtuan85/Generative-Adversarial-Networks-GANs-Specialization/tree/main/Course%203%20-%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/Week%203)
